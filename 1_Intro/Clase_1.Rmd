@@ -702,7 +702,7 @@ background-color: #00081d
 
 
 .center[
-<img style="border-radius: 50%;" src="img/avatar2.png"
+<img style="border-radius: 50%;" src="img/avatar2.PNG"
 width="100px"
 />
 
