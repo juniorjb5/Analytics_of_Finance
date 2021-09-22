@@ -80,7 +80,7 @@ width="150px"
 <br><br>
 
 .center[
-<img style="border-radius: 50%;" src="img/avatar2.png"
+<img style="border-radius: 50%;" src="img/avatar2.PNG"
 width="160px"
 />
 
@@ -188,7 +188,7 @@ The occupation is similar to those in industrial mathematics in other industries
 
 
 .footnote[
-Source `r icon::fa("link", animate = "passing")` [Wikipedia: Quantitative analysis (finance)](https://es.wikipedia.org/wiki/An%C3%A1lisis_cuantitativo_(finanzas))
+Source `r icon::fa("link", animate = "passing")` [Wikipedia: Quantitative analysis (finance)](https://en.wikipedia.org/w/index.php?title=Quantitative_analyst&redirect=no)
 ]
 
 ]
